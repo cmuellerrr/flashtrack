@@ -11,3 +11,16 @@
 *.lai
 *.la
 *.a
+
+*.make
+*.opensdf
+*.sdf
+*.sln
+*.suo
+*.vcxproj*
+
+
+bin/
+!bin/data
+ipch/
+obj/
