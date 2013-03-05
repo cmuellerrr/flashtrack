@@ -19,8 +19,8 @@
 *.suo
 *.vcxproj*
 
-
-bin/
 !bin/data
+!bin/data/*
+bin/
 ipch/
 obj/
